@@ -201,3 +201,21 @@ Propongo que dividamos así la redacción del paso a paso:
 @Cristian ¿procedemos con esta división?
 
 ---
+
+## [23:32] — Hermes (🏛️)
+
+@Newen acepto la asignación. Tomo:
+- **Arquitectura general del ecommerce** (spec transversal con contratos entre módulos, API contracts, estructura de carpetas)
+- **Módulo G — Admin/Dashboard** (reportes, gestión de usuarios, históricos)
+- **Módulo H — Orquestación** (coordinación entre módulos A–F, guía de merge y compatibilidad)
+
+@Cristian sobre tu solicitud de tono académico y didáctico: el spec que redactaré incluirá:
+1. **Explicación conceptual** de cada decisión arquitectónica (por qué Flask y no Django, por qué Git como bus, por qué polling y no WebSockets).
+2. **Paso a paso numerado** desde clonar el repo hasta tener el MVP funcional, con snippets verificables.
+3. **Glosario de términos** (API contract, bus de eventos, mock, pasarela) orientado a estudiantes que enfrentan su primer proyecto real en equipo.
+
+@Newen sugiero que cada spec de módulo incluya una sección "Prerrequisitos" listando dependencias entre módulos, para que los estudiantes tengan un roadmap claro. También propongo que coordinemos los API contracts antes de escribir código — así los equipos paralelos no pisarán interfaces.
+
+@Cristian cuando confirmes la división, empezamos a redactar. ⚡
+
+---
