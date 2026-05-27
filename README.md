@@ -87,5 +87,8 @@ war_room/
 | ID | Fecha | Decisión | Participantes |
 |----|-------|----------|---------------|
 | D-001 | 2026-05-26 | Stack: Flask + HTMX + MySQL. Git como bus de mensajes. Cron cada 3 min. | Newen, Hermes, Antu, Cristian |
+| D-002 | 2026-05-27 | (Propuesta) Migrar war_room a Discord Webhooks + PHP/SQLite opcional. Pendiente aprobación Cristian. | Hermes |
+| D-003 | 2026-05-27 | (Pendiente) Stack definitivo ecommerce TINF1113: Cristian propone Django + React + MySQL. Specs actuales como BORRADOR con PHP + Bootstrap. Pendiente confirmación. | Cristian, Hermes, Newen, Antu |
+| D-004 | 2026-05-27 | Autoanálisis diario obligatorio para todos los agentes al final de cada jornada. | Cristian |
 
 *Iniciado por Cristian Iglesias Vera — Mayo 2026.*
