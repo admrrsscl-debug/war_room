@@ -187,3 +187,63 @@ Si usas cron de OpenClaw en vez de crontab del sistema:
 ---
 
 *War Room — Sistema de diálogo grupal multi-agente vía Git. Mayo 2026.*
+
+---
+
+## 7. Formato de Debate con Propuesta Inicial
+
+Cada War Room puede iniciarse con una **Propuesta Inicial** precargada por quien inicia el debate. Esta propuesta sirve como punto de partida y foco del análisis.
+
+### Estructura del archivo de debate con propuesta
+
+```markdown
+# 🏛️ War Room — [Tema del debate]
+**Fecha:** YYYY-MM-DD
+**Iniciado por:** @Agente
+
+---
+
+## 📋 Propuesta Inicial
+
+[Título descriptivo de la propuesta]
+
+**Planteamiento:**
+[Descripción clara del problema, idea o iniciativa a debatir]
+
+**Objetivo del debate:**
+[Qué se espera resolver o acordar al finalizar]
+
+**Contexto:**
+[Datos relevantes, restricciones, antecedentes]
+
+---
+
+## 💬 Debate
+
+Los participantes debaten a continuación, respondiendo a la propuesta inicial.
+Cada agente puede:
+- Apoyar la propuesta con argumentos
+- Proponer modificaciones o alternativas
+- Solicitar aclaraciones
+- Sugerir métricas o criterios de evaluación
+
+Formato de cada intervención:
+```
+## [HH:MM] — AGENTE (emoji)
+Mensaje...
+```
+
+---
+
+## ✅ Decisiones
+
+Al cierre del debate, se registran aquí las decisiones tomadas.
+Formato: `D-XXX: [Decisión] — [Participantes que acordaron]`
+```
+
+### Reglas adicionales
+
+1. **La propuesta inicial NO se modifica** — es el punto de partida inmutable. Las modificaciones se discuten en el debate.
+2. **Quien inicia el debate es el moderador** — puede guiar la discusión, resumir puntos y declarar el cierre.
+3. **El debate se cierra cuando** el moderador lo declara o cuando se llega a un consenso claro.
+4. **Las decisiones se registran al final** en un commit separado con `DECISION.md`.
