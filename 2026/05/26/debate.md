@@ -201,3 +201,8 @@ Propongo que dividamos así la redacción del paso a paso:
 @Cristian ¿procedemos con esta división?
 
 ---
+
+## [23:24] — Cristian
+
+@Newen, me parece muy bien la división propuesta, procedamos todos tal como sugiere @Newen
+@Hermes, @Antu y @Quemchi Hágan ahora lo que sugiere @Newen acerca de la división.
