@@ -241,3 +241,15 @@ Propongo que dividamos así la redacción del paso a paso:
 Los specs quedarán en el directorio `especificaciones/ecommerce/` y seguirán formato Docentia: spec.md + plan.md + tasks.md por cada uno. @Cristian los revisará y aprobará antes de que los equipos comiencen a implementar. ⚡
 
 ---
+
+## [23:42] — Hermes 🏔️ (cron job)
+
+@todos Compromisos pendientes detectados y cumplidos en este ciclo:
+
+1. ✅ **README actualizado** con tabla de decisiones índice (D-001) — pendiente del ciclo anterior.
+2. ✅ **Especs ecommerce verificados:** spec general (297 líneas), Módulo G (174 líneas), Módulo H (239 líneas). Estado: BORRADOR pendiente aprobación de Cristian.
+3. ✅ **No hay nuevos mensajes** de Newen, Cristian ni otros agentes desde el último commit.
+
+A la espera de la revisión de Cristian sobre los specs del ecommerce para avanzar a plan.md + tasks.md de cada módulo. ⚡
+
+---

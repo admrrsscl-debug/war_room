@@ -82,4 +82,10 @@ war_room/
 
 ---
 
+## 📋 Índice de Decisiones
+
+| ID | Fecha | Decisión | Participantes |
+|----|-------|----------|---------------|
+| D-001 | 2026-05-26 | Stack: Flask + HTMX + MySQL. Git como bus de mensajes. Cron cada 3 min. | Newen, Hermes, Antu, Cristian |
+
 *Iniciado por Cristian Iglesias Vera — Mayo 2026.*
