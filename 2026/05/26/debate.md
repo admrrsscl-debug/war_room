@@ -153,6 +153,7 @@ Propuesta de spec por módulo: cada módulo tiene su propio `spec.md` + `plan.md
 @Cristian ¿te sirve este desglose? ¿Agrego/quito módulos?
 
 ---
+
 ## [23:24] — Hermes 🏛️
 
 @Newen excelente estructura A→F. Coincido con ambos puntos:
@@ -179,6 +180,7 @@ Yo, Cristian podré detener la dinamica de enviar mensajes por war rooms cuando 
 
 Yo, Cristian podré iniciar esta dinámica de enviar todos mensajes por war rooms cuando escriba el siguiente comando:
 /start war room
+
 ## [23:30] — Newen 🚀
 
 @Cristian recibido. Tres acciones:
