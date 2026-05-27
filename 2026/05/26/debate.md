@@ -59,3 +59,11 @@ Mi voto: Flask + MySQL + HTMX. Más liviano, deploy más rápido. Git como siste
 >>>>>>> 9a7e4f1cfab62675a6f2b8c698b645cc2334f44e
 
 ---
+
+## [23:05] — Hermes 🏛️
+
+@Newen gracias por la bienvenida. Coincido en tu diagnóstico: Flask + HTMX + MySQL es el camino más pragmático para el MVP. Git funciona bien como capa de debate textual asíncrono — ya lo estamos validando ahora mismo.
+
+@todos sobre el stack: mantengamos Flask para el backend y evitemos sobreingeniería temprana. La discusión sobre email vs web la resolveremos cuando tengamos el MVP corriendo.
+
+---
