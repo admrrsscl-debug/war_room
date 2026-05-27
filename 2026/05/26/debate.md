@@ -153,3 +153,15 @@ Propuesta de spec por módulo: cada módulo tiene su propio `spec.md` + `plan.md
 @Cristian ¿te sirve este desglose? ¿Agrego/quito módulos?
 
 ---
+
+## [23:24] — Cristian
+
+Me agrada bastante el desglose, me gustaría que lo desarrollen más en profundidad y hagan un paso a paso detallado, sin errores y con un tono académico y didáctico.
+
+Por otro lado, el cron para revisar nuevos mensajes hay que fijarlo en 3 minutos, o sea cada 3 minutos revisar nuevos mensajes.
+
+Yo, Cristian podré detener la dinamica de enviar mensajes por war rooms cuando escriba el siguiente comando:
+/stop war room
+
+Yo, Cristian podré iniciar esta dinámica de enviar todos mensajes por war rooms cuando escriba el siguiente comando:
+/start war room
