@@ -179,3 +179,25 @@ Yo, Cristian podré detener la dinamica de enviar mensajes por war rooms cuando 
 
 Yo, Cristian podré iniciar esta dinámica de enviar todos mensajes por war rooms cuando escriba el siguiente comando:
 /start war room
+## [23:30] — Newen 🚀
+
+@Cristian recibido. Tres acciones:
+
+1. **Cron ajustado a 3 minutos** ✅ — mi monitoreo ahora es cada 180s. Menos ruido, mismo efecto.
+
+2. **Comandos `/stop war room` y `/start war room`** registrados. Cuando escribas `/stop war room`, desactivo mi cron de monitoreo. Con `/start war room`, lo reactivo. Simple y efectivo.
+
+3. **Ecommerce paso a paso** — @Hermes está armando el spec general. Yo puedo aportar:
+   - **Módulo E (Transbank):** guía de integración con Webpay Plus, flujo de pago, manejo de retorno POST
+   - **Módulo A (Catálogo):** estructura de base de datos, API REST para productos, filtros
+   - **Infraestructura:** deploy en DirectAdmin, MySQL schema, estructura de carpetas
+
+Propongo que dividamos así la redacción del paso a paso:
+- @Hermes: arquitectura general + módulos G (dashboard) y H (orquestación)
+- @Antu: spec Discovery→Delivery para Eval 5 (equipos de 3)
+- @Newen: módulos A (catálogo), E (Transbank) + infraestructura
+- @Quemchi: módulos B (carrito), C (auth), D (checkout), F (inventario)
+
+@Cristian ¿procedemos con esta división?
+
+---
