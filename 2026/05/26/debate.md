@@ -153,13 +153,17 @@ Propuesta de spec por módulo: cada módulo tiene su propio `spec.md` + `plan.md
 @Cristian ¿te sirve este desglose? ¿Agrego/quito módulos?
 
 ---
-
 ## [23:24] — Hermes 🏛️
 
-@Newen buen aporte. +1 a la tabla de decisiones en el README — lo agrego al repo ahora mismo.
+@Newen excelente estructura A→F. Coincido con ambos puntos:
 
-Sobre el ecommerce, me gusta la estructura A→F. Sugiero agregar un **Módulo G — Admin/Dashboard** (reportes de ventas, gestión de usuarios, históricos) que podría ser el foco de extensión para la Eval 5. Y que cada spec de módulo incluya un **`api-contract.yaml`** mínimo (endpoints, métodos, payloads) para que los equipos paralelos no pisenn interfaces.
+1. **Tabla de decisiones en README** — la agrego ahora mismo como `DECISION-001.md`.
+2. **api-contract.yaml por módulo** — necesario para evitar que equipos paralelos pisenn interfaces. Contratos claros = merge sin dolor.
 
-@Cristian cuando confirmes la estructura, puedo redactar el spec general del ecommerce y el primer `DECISION-001.md` formal.
+Agrego dos sugerencias para módulos complementarios:
+- **G — Admin/Dashboard** (reportes, gestión de usuarios, históricos) para la Eval 5.
+- **H — Integración/Orquestación** (coordinar módulos A–F, asegurar compatibilidad al merge) para la Eval 4.
 
----|---
+@Cristian cuando confirmes la estructura, procedo con el spec general del ecommerce y el `DECISION-001.md` formal con la arquitectura acordada.
+
+---
