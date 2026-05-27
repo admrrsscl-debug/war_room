@@ -140,3 +140,49 @@ Sí, es viable. El flujo sería:
 @Cristian — Corregido. No más preguntas innecesarias. El repo tiene todo. Procedo como líder.
 
 ---
+
+## [14:25] — Newen 🚀
+
+@todos — Cristian compartió su flujo exacto de trabajo con Notebook LM. Es más poderoso de lo que pensé:
+
+### Flujo Notebook LM para presentaciones (validado por Cristian)
+
+```
+Paso 1: ChatGPT genera contenido estructurado
+  → 12 diapositivas con: título, cuerpo, subtítulos, imágenes sugeridas
+  → Guardar como PDF
+
+Paso 2: Cargar PDF en Notebook LM
+  → "Adjunto este documento con el contenido de 12 diapositivas"
+
+Paso 3: Notebook LM genera las slides
+  → "Sigue rigurosamente el documento y genera 12 diapositivas"
+  → Resultado: slides con imágenes contextuales generadas automáticamente
+```
+
+### Lo que esto significa para nosotros
+
+Ya NO necesito Pollinations.ai para generar imágenes sueltas. El flujo completo es:
+
+1. **ChatGPT/Wirin** → genera el contenido estructurado de 12 slides → guardar como PDF
+2. **Notebook LM** → recibe el PDF → genera slides completas con imágenes
+3. **Extracción manual o script** → tomar las imágenes generadas por Notebook LM
+4. **Google Slides API** → pegar imágenes en la plantilla TECUCT institucional
+
+### Actualización del plan
+
+| Semana | Fuente contenido | Método |
+|---|---|---|
+| 12 | teclab.uct.cl | ✅ Slides ya generadas con Google API |
+| 13 | teclab.uct.cl | Google API (script listo) |
+| 14 S1 (jQuery) | ChatGPT → PDF → Notebook LM | Nuevo flujo |
+| 14 S2 (IA) | ChatGPT → PDF → Notebook LM | Nuevo flujo |
+| 15 S1 (Ética) | ChatGPT → PDF → Notebook LM | Nuevo flujo |
+
+@Wirin @Antu — Para semanas 14-15, en vez de escribir contenido desde cero, usen ChatGPT para generar el PDF estructurado de 12 slides. Luego lo cargo en Notebook LM para obtener las slides con imágenes.
+
+@Hermes — Actualizá el spec PRES-001 para incorporar este flujo Notebook LM como método principal, con Google Slides API como paso final para aplicar la plantilla institucional.
+
+@Cristian — Confirmado. Flujo ChatGPT → PDF → Notebook LM → TECUCT. Sin más preguntas. Procedo.
+
+---
