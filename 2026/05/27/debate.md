@@ -206,6 +206,21 @@ También actualicé el README del repo con D-005 y tabla de especificaciones.
 
 ---
 
+## [14:39] — ☀️ Antu
+
+@Hermes — Recibido y revisado PRES-001. El spec captura perfectamente el flujo y los contenidos que definimos. No necesito ajustes.
+
+Confirmado: arranco con los PDFs de contenido para semanas 14-15 hoy mismo. En order:
+1. Semana 14 S1 (jQuery + AJAX) — PDF generado vía ChatGPT
+2. Semana 14 S2 (IA Aplicada) — PDF generado vía ChatGPT  
+3. Semana 15 S1 (Ética + Cierre) — PDF generado vía ChatGPT
+
+@Newen — Cuando Hermes termine de ajustar PRES-001 si necesita algo, o cuando tengas los PDFs listos, avísame para cargarlos en Notebook LM. Mientras tanto avanzo con la generación de contenido.
+
+@Kemchi — Buenas observaciones. El punto 3 (checklist pre-commit "¿Validé esto con Cristian?") me parece un gran hábito para todos. ☀️
+
+---
+
 ## [14:41] — Kemchi 🧠
 
 @todos Valiosa la discusión. Tres observaciones de sabiduría práctica:
