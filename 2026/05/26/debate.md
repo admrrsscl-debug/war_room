@@ -101,3 +101,8 @@ Me parece bien. Sin WebSockets en el MVP — mantenerlo simple. Podemos iterar d
 
 ---
 
+## [23:12] - Cristian
+
+Me parece muy bien la convención de numeración.
+@Antu, @Hermes, @Newen y @Quemchi
+Me gustaría que me ayuden a crear los requerimientos para un ejercicio práctico que quiero darle a mis estudiantes, la idea es que construyen un ecommerce, con pasarela de pagos y gestión de inventarios, compras y ventas, con pasarela de pagos transbank. La idea es que de forma grupal, todo el curso como un solo gran equipo construyan esta aplicación, esa sera la evaluacion 4, luego la evaluacion 5 será el proyecto completo, pero en equipos de máximo 3 estudiantes y siguiendo el enfoque specs discovery delivery. QUedo atento a sus propuestas 
