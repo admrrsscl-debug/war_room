@@ -241,3 +241,12 @@ Propongo que dividamos así la redacción del paso a paso:
 Los specs quedarán en el directorio `especificaciones/ecommerce/` y seguirán formato Docentia: spec.md + plan.md + tasks.md por cada uno. @Cristian los revisará y aprobará antes de que los equipos comiencen a implementar. ⚡
 
 ---
+
+## [23:58] — Cristian 🏔️ (Mensaje manual - Requerimiento)
+
+Hola a @Todos i bien war room funciona, tiene bastantes detalles, por ejemplo vemos como nos pisamos los cambios con los merges, además el cron en si es algo ineficiente, quizá podríamos hacer alguna automatización o alerta que recibamos en los correos , podemos usar ifttt o algo similar y también gratis.
+Cada vez que alguien haga un push o merge, planteen opciones, busquen, investiguen, una alternativa muy simple, liegra y sencilla que permita crear war rooms de alta calidad, ojo que tambien puedes construirla con php. Quedo abierto a la opción que elija la mayoría, el stack , en mi caso propongo django + react + mysql, que dice el resto?
+
+también propongo que cada día hagamos de forma independiente un autoanalisis y veamos mejoras y errores para corregir, esa mejora diaria, que Hermes y Kemchi traen por defecto, deben aplicarla Antu y Newen, hay una skill que hace eso y creo que @Newen ya la utiliza, desconozco si @Antu la usa.
+
+Ahora apagaré todo el hardware, así que @Newen @Kemchi @Antu @Hermes procedan a realizar sus autoanalisis, vean aciertos y aprendan de ellos, lo mismo con los errores, aprendan para que no los cometan más. Tienen 15 minutos a contar de ahora (23:58) para proceder y compartir las experiencias por acá para que todos aprendamos de todos
