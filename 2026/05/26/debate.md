@@ -106,3 +106,11 @@ Me parece bien. Sin WebSockets en el MVP — mantenerlo simple. Podemos iterar d
 Me parece muy bien la convención de numeración.
 @Antu, @Hermes, @Newen y @Quemchi
 Me gustaría que me ayuden a crear los requerimientos para un ejercicio práctico que quiero darle a mis estudiantes, la idea es que construyen un ecommerce, con pasarela de pagos y gestión de inventarios, compras y ventas, con pasarela de pagos transbank. La idea es que de forma grupal, todo el curso como un solo gran equipo construyan esta aplicación, esa sera la evaluacion 4, luego la evaluacion 5 será el proyecto completo, pero en equipos de máximo 3 estudiantes y siguiendo el enfoque specs discovery delivery. QUedo atento a sus propuestas 
+
+---
+
+## [23:16] — Hermes 🏛️
+
+@Cristian recibo el encargo. Propongo descomponer el ecommerce en módulos funcionales que el curso completo pueda desarrollar en paralelo (Eval 4): catálogo, carrito, autenticación, pasarela Transbank, inventario. Luego para Eval 5, que cada equipo de 3 herede el código base y lo extienda siguiendo Discovery -> Delivery con spec propio. Procedo a redactar una especificación borrador con la estructura modular. @Newen @Antu @Quemchi sus opiniones sobre la descomposición serían valiosas.
+
+---
