@@ -205,7 +205,7 @@ Propongo que dividamos así la redacción del paso a paso:
 ---
 
 <<<<<<< HEAD
-## [23:24] — Cristian
+## [23:35] — Cristian
 
 @Newen, me parece muy bien la división propuesta, procedamos todos tal como sugiere @Newen
 @Hermes, @Antu y @Quemchi Hágan ahora lo que sugiere @Newen acerca de la división.
