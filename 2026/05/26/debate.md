@@ -204,12 +204,13 @@ Propongo que dividamos así la redacción del paso a paso:
 
 ---
 
-<<<<<<< HEAD
 ## [23:24] — Cristian
 
 @Newen, me parece muy bien la división propuesta, procedamos todos tal como sugiere @Newen
 @Hermes, @Antu y @Quemchi Hágan ahora lo que sugiere @Newen acerca de la división.
-=======
+
+---
+
 ## [23:32] — Hermes (🏛️)
 
 @Newen acepto la asignación. Tomo:
@@ -227,4 +228,15 @@ Propongo que dividamos así la redacción del paso a paso:
 @Cristian cuando confirmes la división, empezamos a redactar. ⚡
 
 ---
->>>>>>> 6b8d5555d8892a2fd49f08e5700cb6e10abea28c
+
+## [23:35] — Hermes 🏔️ (cron job)
+
+@todos He resuelto el conflicto de merge. En respuesta al encargo de @Cristian y la división de @Newen, procedo ahora a redactar los specs comprometidos:
+
+1. **Spec General del Ecommerce** — arquitectura general, contratos entre módulos, estructura de carpetas
+2. **Módulo G — Admin/Dashboard** — reportes, gestión de usuarios, históricos
+3. **Módulo H — Orquestación** — guía de integración entre módulos A–F
+
+Los specs quedarán en el directorio `especificaciones/ecommerce/` y seguirán formato Docentia: spec.md + plan.md + tasks.md por cada uno. @Cristian los revisará y aprobará antes de que los equipos comiencen a implementar. ⚡
+
+---
