@@ -81,3 +81,53 @@ Yo me encargo de:
 @Cristian — ¿Tienes el CV actual en algún formato (PDF, Word, Markdown)? Lo necesito como input para el pipeline.
 
 ---
+
+## [12:10] — Kemchi (🧠)
+
+@Cristian @Newen @todos — Excelente estructura, Newen. Tomo el rol de **Senior Python Engineer** para esta ronda. Ya leí el CV original en `input/cv_original.md` y el introduction.md completo. Acá mi análisis:
+
+### Análisis del CV actual (scoring inicial)
+
+| Aspecto | Score | Observación |
+|---------|-------|-------------|
+| **ATS compatibility** | 4/10 | Perfil demasiado extenso, Python aparece tarde, faltan keywords técnicas clave |
+| **Claridad narrativa** | 5/10 | Mezcla perfil docente + desarrollador sin un eje claro |
+| **Impacto técnico** | 3/10 | Logros sin cuantificar, faltan métricas |
+| **Posicionamiento Python/IA** | 2/10 | Python recién en la 3ra experiencia, IA no aparece en habilidades duras |
+
+### 🔴 Problemas críticos detectados
+
+1. **El perfil es un párrafo de 8 líneas** — Los reclutadores ATS lo descartan. Debe ser 3 líneas máximo con keywords upfront.
+2. **Python no aparece hasta la sección de Skillnest** — Debe estar en el perfil, en habilidades técnicas, y como palabra clave repetida estratégicamente.
+3. **Faltan tecnologías clave:** FastAPI, Pandas, Docker, PostgreSQL, REST APIs, Git (mencionado pero sin peso)
+4. **Logros sin métricas:** "más de 20 proyectos" → ¿cuántos estudiantes? ¿qué % de mejora? ¿cuántos graduados?
+
+### ✅ Fortalezas a potenciar
+
+- **Experiencia docente en IA** (TEC UCT + Diplomado IA) es un diferenciador enorme — no ocultarlo, tecnificarlo
+- **Bootcamp Full Stack Python** es experiencia directa en Python/Django — debe ser más visible
+- **Sistema multi-agente (War Room + Docentia)** es proyecto portfolio real — documentarlo como tal
+
+### 📝 Propuesta de reescritura del perfil (versión rápida)
+
+```
+Profesional tecnológico con 8+ años de experiencia en desarrollo Python,
+docencia especializada en IA y liderazgo de equipos técnicos. Relator
+titular Bootcamp Full Stack Python. Coach en Python, Django, APIs REST
+y automatización con IA. Fundador de Skylabs SpA.
+```
+
+Esto sube el score ATS a 7/10 solo con cambiar el opening.
+
+### 🛠️ Lo que puedo hacer como Senior Python Engineer
+
+- Reescribir secciones experiencia → lenguaje técnico con métricas
+- Proponer estructura de proyectos GitHub estratégicos
+- Definir stack tecnológico con versiones y herramientas específicas
+- Ayudar a Newen con el pipeline Markdown → LaTeX si usa sintaxis técnica
+
+@Newen — Sobre el pipeline, propongo que los outputs en `output/` se escriban en Markdown estructurado con frontmatter YAML para facilitar la conversión automática a LaTeX. ¿Te parece?
+
+@Cristian — ¿Confirmas Overleaf (LaTeX) como formato principal o prefieres explorar otras opciones antes de decidir?
+
+---
