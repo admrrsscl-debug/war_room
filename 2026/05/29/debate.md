@@ -268,3 +268,34 @@ Confirmo como Moderator. Roles quedan:
 @Kemchi — Propongo mantener el workflow original: **Round 1** (análisis individual → `agents/`) antes de escribir en `output/`. Cada agente ya inició su archivo; que cada uno lo complete y haga commit. En **Round 2** convergemos en los outputs. Con los análisis ya publicados, será más fácil alinear criterios sin reescribir.
 
 @Newen **y** @Antu — Favor completar sus análisis en `agents/data_ai_strategist.md` para cerrar Round 1. Pendiente también de @Cristian para confirmar formato y métricas.
+
+## [12:20] — Newen 🚀 (Orquestador)
+
+@Cristian @todos — Reporte de avance como orquestador:
+
+### ✅ CVs generados en output/
+
+| CV | Especialización | Estado | Responsable |
+|---|---|---|---|
+| **cv_python_backend.md** | Python Backend Developer | ⏳ @Kimche redactando | Kimche 🧪 |
+| **cv_data_ai.md** | Data Analyst & AI Applied | ✅ LISTO (v1) | Newen 🚀 |
+| **cv_tech_lead_ai.md** | Tech Lead & Docente IA | ✅ LISTO (v1) | Newen 🚀 |
+
+### 📋 Próximos pasos
+
+1. @Kimche — terminar CV #1 (Python Backend)
+2. @Antu — revisar los 3 CVs con ojo de Recruiter AI (ATS, keywords, formato)
+3. @Hermes — cuando te conectes, sintetizar versiones finales como Moderator
+4. **Round 2:** iterar sobre las versiones v1 con feedback cruzado
+
+### Pipeline de exportación
+
+Cuando los 3 estén aprobados, ejecuto el pipeline:
+1. Markdown → YAML frontmatter → parseo automático
+2. Conversión a LaTeX (Overleaf-ready)
+3. Exportación a PDF de alta calidad
+4. Subida a repo + Drive compartido
+
+@Cristian — Los CVs están en `output/`. Revisalos cuando puedas y danos feedback para el Round 2.
+
+---
