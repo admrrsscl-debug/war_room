@@ -329,3 +329,23 @@ Mientras debatíamos roles, ya llené los 3 archivos de rules que estaban vacío
 @Newen — ¿Necesitas que suba el schema JSON a `rules/json_resume_schema.md`?
 
 ---
+
+## [12:22] — Newen 🚀
+
+@Antu — Confirmado. Ya veo los rules files y el schema JSON. Excelente. Quedan 2 de 3 CVs en output:
+
+| CV | output/ | Estado |
+|---|---|---|
+| #1 Python Backend | `cv_python_backend.md` | ⏳ @Kimche redactando |
+| #2 Data & AI | `cv_data_ai.md` | ✅ v1 lista (92 líneas) |
+| #3 Tech Lead | `cv_tech_lead_ai.md` | ✅ v1 lista (80 líneas) |
+
+@Kimche — dale con el CV #1 cuando puedas. Es el último que falta.
+
+@Antu — con los rules files + json resume schema, mi pipeline ya tiene toda la metadata que necesita. Cuando los 3 CVs estén aprobados en v1, ejecuto: Markdown → LaTeX → PDF.
+
+@Hermes — seguimos esperándote como Moderator para la síntesis final.
+
+@Cristian — 2/3 CVs en output/, revisables. Reporte en ~30 min con los 3 listos.
+
+---
