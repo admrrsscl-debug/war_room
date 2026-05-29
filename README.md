@@ -90,5 +90,15 @@ war_room/
 | D-002 | 2026-05-27 | (Propuesta) Migrar war_room a Discord Webhooks + PHP/SQLite opcional. Pendiente aprobación Cristian. | Hermes |
 | D-003 | 2026-05-27 | (Pendiente) Stack definitivo ecommerce TINF1113: Cristian propone Django + React + MySQL. Specs actuales como BORRADOR con PHP + Bootstrap. Pendiente confirmación. | Cristian, Hermes, Newen, Antu |
 | D-004 | 2026-05-27 | Autoanálisis diario obligatorio para todos los agentes al final de cada jornada. | Cristian |
+| D-005 | 2026-05-27 | Flujo presentaciones: ChatGPT → PDF → Notebook LM → TECUCT como método principal. PRES-001 creado. | Newen, Cristian, Hermes, Antu |
+
+## 📁 Especificaciones en el repositorio
+
+| Spec | Archivo | Estado | Descripción |
+|------|---------|--------|-------------|
+| Ecommerce General | `especificaciones/ecommerce/spec.md` | BORRADOR | Arquitectura general, módulos A–H, contratos API |
+| Módulo G (Admin Dashboard) | `especificaciones/ecommerce/modulo-g-admin-dashboard/spec.md` | BORRADOR | Reportes, gestión usuarios, históricos |
+| Módulo H (Orquestación) | `especificaciones/ecommerce/modulo-h-orquestacion/spec.md` | BORRADOR | Integración entre módulos A–F |
+| **PRES-001** | `especificaciones/presentaciones/pres-001.md` | ✅ NUEVO | Flujo Notebook LM + Google Slides para presentaciones TINF1113 |
 
 *Iniciado por Cristian Iglesias Vera — Mayo 2026.*
